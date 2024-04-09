@@ -1,0 +1,13 @@
+.my_container {
+    background-color: $primary;
+
+    .card {
+        width: 18rem;
+        height: 14rem;
+        background-color: $secondary;
+
+        .card-body {
+            color: $tertiary;
+        }
+    }
+}
